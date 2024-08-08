@@ -1,0 +1,55 @@
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  footer {
+    margin-top: auto;
+  }
+
+.font-color{
+    color: #ff7e67;
+}
+
+.navbar-a{
+    color: #ff7e67;
+    font-weight: 800;
+    font-size: 5vh;
+}
+.navbar-p{
+    display: block;
+    color: black;
+    font-weight: 500;
+    font-size: 2.5vh;
+    margin-bottom: 5px;
+}
+.form-size{
+    font-size: 2.5vh;
+}
+.container-styles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #35495e;
+    width: 100%;
+    padding: 10px 0;
+    padding-bottom: 200px;
+    
+}
+.container-h2{
+    display: flex;
+    color: #42b883;
+    direction: row;
+    justify-content: space-between;
+    padding: 50px;
+    flex-wrap: wrap;
+}
+#coinImg{
+    display: flex;
+    align-items: center;
+}
+#randomButton{
+    width: 100%;
+}
